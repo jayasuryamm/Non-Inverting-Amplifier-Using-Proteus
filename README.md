@@ -1,5 +1,6 @@
 ## Experiment No: 2
 ## NON-INVERTING AMPLIFIER USING OP-AMP (μA741)
+
 ## Aim
 To design and simulate a Non-Inverting Amplifier using μA741 in Proteus Design Suite and verify its voltage gain.
 ## Apparatus Required
