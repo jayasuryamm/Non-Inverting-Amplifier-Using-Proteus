@@ -11,13 +11,6 @@ To design and simulate a Non-Inverting Amplifier using μA741 in Proteus Design 
 •	CRO / Oscilloscope
 •	Connecting wires
 ## Circuit Diagram
-(Draw neatly in record OR paste Proteus circuit screenshot)
-Pin Configuration:
-•	Pin 3 → Input (Non-inverting)
-•	Pin 2 → Feedback network
-•	Pin 6 → Output
-•	Pin 7 → +15V
-•	Pin 4 → −15V
 <img width="1742" height="850" alt="image" src="https://github.com/user-attachments/assets/25d68754-1699-49f0-8f85-3d83f9c81899" />
 
 ## Theory
