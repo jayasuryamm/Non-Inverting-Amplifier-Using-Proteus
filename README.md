@@ -11,16 +11,13 @@ To design and simulate a Non-Inverting Amplifier using μA741 in Proteus Design 
 •	CRO / Oscilloscope
 •	Connecting wires
 ## Circuit Diagram
-(Draw neatly in record OR paste Proteus circuit screenshot)
+<img width="1742" height="850" alt="image" src="https://github.com/user-attachments/assets/ef22909f-6722-4d47-813f-da9962417ac4" />
 Pin Configuration:
 •	Pin 3 → Input (Non-inverting)
 •	Pin 2 → Feedback network
 •	Pin 6 → Output
 •	Pin 7 → +15V
 •	Pin 4 → −15V
-<img width="1742" height="850" alt="image" src="https://github.com/user-attachments/assets/ef22909f-6722-4d47-813f-da9962417ac4" />
-
-
 ## Theory
 A Non-Inverting Amplifier is a closed-loop amplifier configuration in which the input is applied to the non-inverting terminal (+) of the op-amp.
 The output signal is amplified and remains in phase with the input signal.
@@ -35,9 +32,6 @@ The output signal is amplified and remains in phase with the input signal.
 8.	Observe input and output waveforms.
 ## Waveform
 <img width="1352" height="853" alt="image" src="https://github.com/user-attachments/assets/d7d3c671-15ae-4927-8c68-9d10173223ec" />
-
-
-
 ## Tabulation
 S.No	Vin (V)	Theoretical Gain	Theoretical Vout (V)	Practical Vout (V)
 | S.No | Vin (V) | Theoretical Gain (Av) | Theoretical Vout (V) | Practical Vout (Proteus) (V) |
