@@ -18,7 +18,8 @@ Pin Configuration:
 •	Pin 6 → Output
 •	Pin 7 → +15V
 •	Pin 4 → −15V
-<img width="1742" height="850" alt="image" src="https://github.com/user-attachments/assets/25d68754-1699-49f0-8f85-3d83f9c81899" />
+<img width="1742" height="850" alt="image" src="https://github.com/user-attachments/assets/ef22909f-6722-4d47-813f-da9962417ac4" />
+
 
 ## Theory
 A Non-Inverting Amplifier is a closed-loop amplifier configuration in which the input is applied to the non-inverting terminal (+) of the op-amp.
@@ -33,7 +34,9 @@ The output signal is amplified and remains in phase with the input signal.
 7.	Run simulation.
 8.	Observe input and output waveforms.
 ## Waveform
-<img width="1373" height="882" alt="image" src="https://github.com/user-attachments/assets/9237938d-70c5-4f18-ada7-5fba34a7c6c6" />
+<img width="1352" height="853" alt="image" src="https://github.com/user-attachments/assets/d7d3c671-15ae-4927-8c68-9d10173223ec" />
+
+
 
 ## Tabulation
 S.No	Vin (V)	Theoretical Gain	Theoretical Vout (V)	Practical Vout (V)
